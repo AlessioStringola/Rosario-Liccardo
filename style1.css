@@ -1,0 +1,85 @@
+nav{
+    width: 100%;
+    height: 11vh;
+}
+li{
+    height: 11vh;
+    text-decoration: none;
+    list-style: none;
+}
+.lis-1{
+    background-image: url(./LR.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.lis-2{
+    background-image: url(./pkeee.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.lis-3{
+    background-image: url(./riunione-LR.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;   
+}
+header{
+    height:55vh;
+    margin-block-start: 123px;
+    background-color: #e37ace;
+    background-image: url(./LR.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+h1{
+    width: 100%;
+    text-align: center;
+    height:calc(100vh - 86vh);
+    background-color: blueviolet;
+}
+.sec-1{
+    height: 25vh;
+    background-color: #e2995a;
+    background-image: url(./come-Cecchi-Paone-e.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+main{
+    background-color: chartreuse;
+    height: 92vh; 
+}
+.sec-2{
+    height: 75vh;
+    background-color: chartreuse;
+}
+.article-1{
+    height: 100px;
+}
+.div-1{
+    background-image: url(./Ivan-Grieco.jpg);
+    background-position: top;
+    background-repeat: no-repeat;   
+}
+.div-2{
+    background-image: url(./Dave-Revan.jpg);
+    background-position: top;
+    background-repeat: no-repeat;    
+}
+.div-3{
+    height: 175px;
+    background-image: url(./Dudubbi.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-position: contain;     
+}
+.h2-ivan{
+    top: 200px;
+}
+.h2-dave{
+    top: 200px;
+}
+.h2-dudubi{
+    top: 200px;
+}
